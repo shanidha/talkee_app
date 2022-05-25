@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "479047892225",
+    "project_id": "talkee-7fcbb",
+    "storage_bucket": "talkee-7fcbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479047892225:android:9fc7b6941139c7cb3cef00",
+        "android_client_info": {
+          "package_name": "com.example.talkee_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479047892225-57voupt9qrmnek3ck7is19mrvo3jp7pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpselaDN4HPBoMVuVyrUV2605o1jbYh5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479047892225-57voupt9qrmnek3ck7is19mrvo3jp7pr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "479047892225-nrjs6j7rjcidcjrtjo000csckaj9o0mv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
